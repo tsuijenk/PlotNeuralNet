@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T22:58:42.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="5QCmr9VJ1sj5a9gBqjpx" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T23:03:56.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ymMSd9yh_F0wmw1hMdti" version="16.2.7" type="github">
   <diagram id="d2eCaFcVuYxanek6zr8M" name="Page-1">
-    <mxGraphModel dx="3211" dy="3249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="1" shadow="0">
+    <mxGraphModel dx="2248" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,7 +81,7 @@
         </mxCell>
         <mxCell id="bO9a51jHY94Dz1iOjvRc-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=30;strokeWidth=3;entryX=-0.042;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bO9a51jHY94Dz1iOjvRc-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1070" y="1210" as="sourcePoint" />
+            <mxPoint x="810" y="1190" as="sourcePoint" />
             <mxPoint x="1450" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -96,8 +96,8 @@
             <mxPoint x="1369.9999999999995" y="1150" as="sourcePoint" />
             <mxPoint x="1580" y="1360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1220" y="1250" />
-              <mxPoint x="1400" y="1310" />
+              <mxPoint x="1210" y="1290" />
+              <mxPoint x="1370" y="1310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,10 +114,19 @@
           <mxGeometry x="1180" y="1581" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bO9a51jHY94Dz1iOjvRc-35" value="Random number of emitters&lt;br&gt;Random coordinates x, y, z&lt;br&gt;Random brightness N&lt;br&gt;Random cell and nucleus locations" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1520" width="480" height="150" as="geometry" />
+          <mxGeometry x="390" y="1526" width="480" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bO9a51jHY94Dz1iOjvRc-36" value="Simulator learning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="390" y="1040" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bO9a51jHY94Dz1iOjvRc-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1189" width="360" height="323" as="geometry" />
+        </mxCell>
+        <mxCell id="bO9a51jHY94Dz1iOjvRc-39" value="Probability map" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="1100" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bO9a51jHY94Dz1iOjvRc-40" value="Barcode gene map" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="1380" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
